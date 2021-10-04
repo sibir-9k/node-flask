@@ -18,7 +18,7 @@ router.get("/click-on-me", (req, res) => {
 
 router.get("/about", (req, res) => {
   res.render("about", {
-    name: "Artem",
+    name: "Egor F.",
   });
 });
 
